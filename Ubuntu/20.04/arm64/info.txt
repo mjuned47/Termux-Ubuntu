@@ -1,1 +1,0 @@
-#Ubuntu Version 20.04.1 arm64 For Termux
