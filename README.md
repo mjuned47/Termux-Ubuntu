@@ -12,3 +12,6 @@ How to Install Ubuntu chroot in Termux ?
 4) Installation process will start,wait until it finish
 5) now start ubuntu chroot
    ( command : sh start.sh )
+
+Screenshots :
+![Screenshots](https://raw.githubusercontent.com/mjuned47/Termux-Rootfs/master/screenshots/*.jpg)
