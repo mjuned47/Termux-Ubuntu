@@ -15,3 +15,4 @@ How to Install Ubuntu chroot in Termux ?
 
 Screenshots :
 ![Screenshots](https://raw.githubusercontent.com/mjuned47/Termux-Rootfs/master/screenshots/Screenshot_2021-01-07-15-47-50-424_com.termux.jpg)
+![Screenshots](https://raw.githubusercontent.com/mjuned47/Termux-Rootfs/master/screenshots/Screenshot_2021-01-07-15-49-16-908_jackpal.androidterm.jpg)
