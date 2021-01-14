@@ -24,7 +24,6 @@ fi
 cd $folder
 arch=`uname -m`
 case "$arch" in
-    i*86) arch="i386" ;;
     aarch64|armv8l) arch="arm64" ;;
     armv7l|arm|armhf) arch="armhf" ;;
 		*)
