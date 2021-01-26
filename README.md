@@ -1,5 +1,7 @@
 # Termux-Rootfs
 Ubuntu Script and other Rootfs for Termux (Root and non Root users)
+# GLStreamserver Android App
+# Sparkle Android App
 
 For Root :
 
