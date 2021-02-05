@@ -53,13 +53,14 @@ groupadd -g 3004 aid_net_raw
 groupadd -g 1003 aid_graphics
 usermod -g 3003 -G 3003,3004 -a _apt
 usermod -G 3003 -a root
+echo "127.0.0.1 localhost" > /etc/hosts
 '
 sleep 1 && echo -e "\x1b[33m [ Done ! ]"
 sleep 1
 echo -e "\x1b[33m [ Downloaded Ubuntu File has been moved to Internal storage. You can unpack for clean Installation without Downloading ]"
 echo -e "\x1b[33m [ To unpack it : go to $folder ]"
 echo -e "\x1b[33m [ and type : tar xzf /sdcard/rootfs-$arch.tar.gz ]"
-echo -e "\x1b[32m [ Installation Completed,You can mount Ubuntu system ]"
+echo -e "\x1b[32m [ Installation Completed,You can start Ubuntu system ]"
 echo -e " [ Ubuntu is installed at $folder ]\e[0m"
 
 sleep 1
