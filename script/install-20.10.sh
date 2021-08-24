@@ -1,11 +1,11 @@
 #!/bin/sh
 clear
 echo -e "\x1b[32m\033[1m   #############################################"
-echo -e "\x1b[32m #    [ Ubuntu Installation Script by Pro-L!nux ]    #"
+echo -e "\x1b[32m     [ Ubuntu Installation Script by Pro-L!nux ]    "
 echo -e "\x1b[32m   #############################################"
 sleep 1
 folder="/data/local/tmp/ubuntu"
-file="$folder/rootfs-arm64.tar.gz"
+file="$folder/rootfs-$arch.tar.gz"
 if [ -d "$folder" ];
 then
         first=1
