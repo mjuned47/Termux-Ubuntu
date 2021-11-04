@@ -1,4 +1,4 @@
-# Termux-Rootfs
+# Termux-Ubuntu
 Ubuntu Script and other Rootfs for Termux (Root and non Root users)
 # GLStreamserver Android App
 ![Screenshots](https://raw.githubusercontent.com/mjuned47/Termux-Rootfs/master/screenshots/GLstreamserver.jpg)
